@@ -1,6 +1,6 @@
 USE ShopDB;
 
--- Create your stored procedure hereDELIMITER //
+-- Create your stored procedure here
 
 DELIMITER //
 
