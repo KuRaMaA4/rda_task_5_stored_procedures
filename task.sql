@@ -1,3 +1,5 @@
+-- Before running this script, drop the old database manually if it exists:
+-- DROP DATABASE ShopDB;
 USE ShopDB;
 
 -- Create your stored procedure here
